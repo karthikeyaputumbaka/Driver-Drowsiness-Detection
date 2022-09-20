@@ -1,0 +1,2 @@
+# Driver-Drowsiness-Detection
+Just in one year road accidents  happened due to drowsiness of driver was around 40% of total accidents which is a incredible number. so this model detects whether the driver is drowsy just using the neural network for this driver face has to be given as a input and ROI will be created and eyes will be chosen as a main part and those eyes will be classifies into drowsy part or not.
